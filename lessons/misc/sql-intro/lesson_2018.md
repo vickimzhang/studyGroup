@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Introduction to Databases and SQL'
-visible: true
+visible: false
 tags:
   - misc
   - beginner
